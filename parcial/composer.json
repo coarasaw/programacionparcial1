@@ -1,0 +1,12 @@
+{
+    "name": "coarasa/ejemplo-parcial_i",
+    "authors": [
+        {
+            "name": "wally",
+            "email": "coarasaw@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
